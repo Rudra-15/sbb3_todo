@@ -47,16 +47,6 @@ sbb3_todo/
 - **MySQL 8 / XAMPP**
 - **Eclipse IDE**
 
-### **2️⃣ Clone the Repository**
-```sh
-git clone https://github.com/your-username/sbb3_todo.git
-cd sbb3_todo
-```
-
-### **3️⃣ Import the Project into Eclipse**
-1. Open **Eclipse**.
-2. Click **File** → **Import** → **Existing Maven Projects** (or Java Project).
-3. Browse to the cloned repository folder and click **Finish**.
 
 ### **4️⃣ Configure MySQL Database**
 1. Open **MySQL Workbench** or **phpMyAdmin**.
